@@ -1,4 +1,4 @@
-# gengoshori_knock
+# 言語処理100本ノック
 
 ## 第1章　準備運動
 chapter1.ipynb
